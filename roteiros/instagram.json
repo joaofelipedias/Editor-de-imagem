@@ -18,6 +18,11 @@
    "fim": 5.0
   },
   {
+   "arquivo": "brutos/IMG_3870.mov",
+   "inicio": 0,
+   "fim": 3.8
+  },
+  {
    "arquivo": "brutos/IMG_3887.mov",
    "inicio": 0.3,
    "fim": 4.6
@@ -33,6 +38,11 @@
    "arquivo": "brutos/IMG_3895.mov",
    "inicio": 0,
    "fim": 6.0
+  },
+  {
+   "arquivo": "brutos/IMG_3900.mov",
+   "inicio": 0,
+   "fim": 4.9
   },
   {
    "arquivo": "brutos/IMG_3871.mov",
@@ -69,6 +79,11 @@
    "fim": 6.9,
    "entrada": "fusao",
    "dur_fusao": 0.5
+  },
+  {
+   "arquivo": "brutos/IMG_3867.mov",
+   "inicio": 0,
+   "fim": 4.5
   },
   {
    "arquivo": "brutos/IMG_3907.mov",
