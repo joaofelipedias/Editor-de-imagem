@@ -1,14 +1,79 @@
 {
-  "largura": 1080, "altura": 1920, "fps": 30,
-  "titulo_png": "saida/titulo_instagram.png", "titulo_inicio": 0.6,
-  "fade_inicio": 0.5, "fade_fim": 0.8,
-  "cortes": [
-    {"arquivo": "brutos/IMG_3892.mov", "inicio": 0.0, "fim": 4.0},
-    {"arquivo": "brutos/IMG_3887.mov", "inicio": 0.3, "fim": 4.6},
-    {"arquivo": "brutos/IMG_3899.mov", "inicio": 0.0, "fim": 7.6, "entrada": "fusao", "dur_fusao": 0.5},
-    {"arquivo": "brutos/IMG_3895.mov", "inicio": 0.0, "fim": 8.8},
-    {"arquivo": "brutos/IMG_3900.mov", "inicio": 0.0, "fim": 4.9},
-    {"arquivo": "brutos/IMG_3904.mov", "inicio": 0.0, "fim": 6.9, "entrada": "fusao", "dur_fusao": 0.5},
-    {"arquivo": "brutos/IMG_3907.mov", "inicio": 0.0, "fim": 3.6}
-  ]
+ "largura": 1080,
+ "altura": 1920,
+ "fps": 30,
+ "titulo_png": "saida/titulo_instagram.png",
+ "titulo_inicio": 0.6,
+ "fade_inicio": 0.5,
+ "fade_fim": 0.8,
+ "cortes": [
+  {
+   "arquivo": "brutos/IMG_3892.mov",
+   "inicio": 0,
+   "fim": 4.0
+  },
+  {
+   "arquivo": "brutos/IMG_3868.mov",
+   "inicio": 0,
+   "fim": 5.0
+  },
+  {
+   "arquivo": "brutos/IMG_3887.mov",
+   "inicio": 0.3,
+   "fim": 4.6
+  },
+  {
+   "arquivo": "brutos/IMG_3899.mov",
+   "inicio": 0,
+   "fim": 7.6,
+   "entrada": "fusao",
+   "dur_fusao": 0.5
+  },
+  {
+   "arquivo": "brutos/IMG_3895.mov",
+   "inicio": 0,
+   "fim": 6.0
+  },
+  {
+   "arquivo": "brutos/IMG_3871.mov",
+   "inicio": 0.5,
+   "fim": 4.5,
+   "entrada": "fusao",
+   "dur_fusao": 0.5
+  },
+  {
+   "arquivo": "brutos/IMG_3874.mov",
+   "inicio": 3.5,
+   "fim": 7.0
+  },
+  {
+   "arquivo": "brutos/IMG_3879.mov",
+   "inicio": 0,
+   "fim": 4.8,
+   "entrada": "fusao",
+   "dur_fusao": 0.5
+  },
+  {
+   "arquivo": "brutos/IMG_3883.mov",
+   "inicio": 0,
+   "fim": 4.4
+  },
+  {
+   "arquivo": "brutos/IMG_3881.mov",
+   "inicio": 0,
+   "fim": 4.0
+  },
+  {
+   "arquivo": "brutos/IMG_3904.mov",
+   "inicio": 0,
+   "fim": 6.9,
+   "entrada": "fusao",
+   "dur_fusao": 0.5
+  },
+  {
+   "arquivo": "brutos/IMG_3907.mov",
+   "inicio": 0,
+   "fim": 3.6
+  }
+ ]
 }

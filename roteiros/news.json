@@ -1,13 +1,87 @@
 {
-  "largura": 1920, "altura": 1080, "fps": 30,
-  "fade_inicio": 0.5, "fade_fim": 0.8,
-  "cortes": [
-    {"arquivo": "brutos/IMG_3905.mov", "inicio": 0.0, "fim": 9.4},
-    {"arquivo": "brutos/IMG_3888.mov", "inicio": 0.0, "fim": 4.2},
-    {"arquivo": "brutos/IMG_3901.mov", "inicio": 0.0, "fim": 4.2},
-    {"arquivo": "brutos/IMG_3902.mov", "inicio": 0.0, "fim": 3.2},
-    {"arquivo": "brutos/IMG_3903.mov", "inicio": 0.0, "fim": 5.3, "entrada": "fusao", "dur_fusao": 0.5},
-    {"arquivo": "brutos/IMG_3890.mov", "inicio": 0.0, "fim": 9.1},
-    {"arquivo": "brutos/IMG_3891.mov", "inicio": 0.0, "fim": 4.1, "entrada": "fusao", "dur_fusao": 0.5}
-  ]
+ "largura": 1920,
+ "altura": 1080,
+ "fps": 30,
+ "fade_inicio": 0.5,
+ "fade_fim": 0.8,
+ "cortes": [
+  {
+   "arquivo": "brutos/IMG_3905.mov",
+   "inicio": 0,
+   "fim": 9.4
+  },
+  {
+   "arquivo": "brutos/IMG_3864.mov",
+   "inicio": 0,
+   "fim": 5.5
+  },
+  {
+   "arquivo": "brutos/IMG_3888.mov",
+   "inicio": 0,
+   "fim": 4.2
+  },
+  {
+   "arquivo": "brutos/IMG_3869.mov",
+   "inicio": 0,
+   "fim": 5.7
+  },
+  {
+   "arquivo": "brutos/IMG_3901.mov",
+   "inicio": 0,
+   "fim": 4.2
+  },
+  {
+   "arquivo": "brutos/IMG_3903.mov",
+   "inicio": 0,
+   "fim": 5.3
+  },
+  {
+   "arquivo": "brutos/IMG_3872.mov",
+   "inicio": 0,
+   "fim": 5.4,
+   "entrada": "fusao",
+   "dur_fusao": 0.5
+  },
+  {
+   "arquivo": "brutos/IMG_3876.mov",
+   "inicio": 0,
+   "fim": 4.3
+  },
+  {
+   "arquivo": "brutos/IMG_3880.mov",
+   "inicio": 0,
+   "fim": 4.7,
+   "entrada": "fusao",
+   "dur_fusao": 0.5
+  },
+  {
+   "arquivo": "brutos/IMG_3884.mov",
+   "inicio": 0,
+   "fim": 5.0
+  },
+  {
+   "arquivo": "brutos/IMG_3886.mov",
+   "inicio": 0,
+   "fim": 4.9
+  },
+  {
+   "arquivo": "brutos/IMG_3890.mov",
+   "inicio": 0,
+   "fim": 9.1,
+   "entrada": "fusao",
+   "dur_fusao": 0.5
+  },
+  {
+   "arquivo": "brutos/IMG_3866.mov",
+   "inicio": 0,
+   "fim": 3.6
+  },
+  {
+   "arquivo": "brutos/IMG_3891.mov",
+   "inicio": 0,
+   "fim": 4.1,
+   "entrada": "fusao",
+   "dur_fusao": 0.5
+  }
+ ]
 }
