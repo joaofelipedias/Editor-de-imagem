@@ -1,0 +1,7 @@
+brutos/
+saida/
+*.mov
+*.MOV
+*.mp4
+*.m4v
+__pycache__/
